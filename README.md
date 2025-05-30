@@ -23,11 +23,11 @@ This project is developed as part of the **IPA (Integrated Project Assignment)**
 
 The processor was implemented using a **modular design philosophy**, where each stage of the processor is built and tested independently before integration. The two main architectural variants developed are:
 
-### 🔹 1. Sequential Processor
+### 🔹 Sequential Processor
 - Implements instruction execution in a single-cycle format.
 - Serves as a base reference for functional correctness.
 
-### 🔹 2. 5-Stage Pipelined Processor
+### 🔹 5-Stage Pipelined Processor
 - **Stages**:
   - **IF** – Instruction Fetch
   - **ID** – Instruction Decode
