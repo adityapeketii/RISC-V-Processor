@@ -55,7 +55,7 @@ The processor was implemented using a **modular design philosophy**, where each 
   - Integrated system tested with encoded RISC-V instruction sequences.
 - **Toolchain**:
   - Simulation: Icarus Verilog
-  - Optional Scripting: Python / Bash for automation
+  - Scripting: Python / Bash for automation
 
 ---
 
