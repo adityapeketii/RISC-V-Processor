@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-This project is developed as part of the **IPA (Integrated Project Assignment)** course for Spring 2025. The objective is to design and simulate a processor architecture based on the **RISC-V ISA** using **Verilog**. The project explores both **sequential** and **pipelined** processor designs, with emphasis on modularity, correctness, and performance.
+This project is developed as part of the **IPA (Introduction to Processor Architecture)** course for Spring 2025. The objective is to design and simulate a processor architecture based on the **RISC-V ISA** using **Verilog**. The project explores both **sequential** and **pipelined** processor designs, with emphasis on modularity, correctness, and performance.
 
 ---
 
